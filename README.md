@@ -7,8 +7,15 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, we need to oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, we need to  use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, we need to compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Finally we need to evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 ## Resources:
-Data Source: LoanStats_2019Q1.csv [LoanStats]()
+Data Source: LoanStats_2019Q1.csv [LoanStats](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/LoanStats_2019Q1.csv)
 Software: Python 3.8.3 , Jupyter Notebook 
+
+### Notebook
+
+[credit_risk_resampling.ipynb](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+
+[credit_risk_ensemble.ipynb](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+
 ## Results:
 ## Use Resampling Models to Predict Credit Risk:
 Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’ll evaluate three machine learning models by using resampling to determine which is better at predicting credit risk. First, you’ll use the oversampling RandomOverSampler and SMOTE algorithms, and then you’ll use the undersampling ClusterCentroids algorithm. Using these algorithms, you’ll resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
@@ -30,14 +37,11 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 ![SMOTE_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/SMOTE%20ACC.png)
 ![SMOTE-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/SMOTE%20CL.png)
 
-
 * Balanced accuracy scores: 64%
 * Precision High Risk: 1%
 * Precision Low Risk: 100%
 * Recall High Risk: 63%
 * Recall Low Risk: 66%
-
-
 
 ### Undersampling
 ![CC_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/CC%20ACC.png)
