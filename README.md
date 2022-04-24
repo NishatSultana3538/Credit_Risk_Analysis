@@ -17,8 +17,8 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 
 #### Naive Random Oversampling
 
-![NRM_ACC]()
-![NRM-CL]()
+![NRM_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/NRO%20ACC.png)
+![NRM-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/NRO%20CL.png)
 
 * Balanced accuracy scores: 65%
 * Precision High Risk: 1%
@@ -27,8 +27,8 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 * Recall Low Risk: 68%
 
 #### SMOTE Oversampling
-![SMOTE_ACC]()
-![SMOTE-CL]()
+![SMOTE_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/SMOTE%20ACC.png)
+![SMOTE-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/SMOTE%20CL.png)
 
 
 * Balanced accuracy scores: 64%
