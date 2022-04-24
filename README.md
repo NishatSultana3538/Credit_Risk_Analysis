@@ -20,11 +20,11 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 ![NRM_ACC]()
 ![NRM-CL]()
 
-Balanced accuracy scores: 65%
-Precision High Risk: 1%
-Precision Low Risk: 99%
-Recall High Risk: 62%
-Recall Low Risk: 68%
+* Balanced accuracy scores: 65%
+* Precision High Risk: 1%
+* Precision Low Risk: 99%
+* Recall High Risk: 62%
+* Recall Low Risk: 68%
 
 #### SMOTE Oversampling
 ![SMOTE_ACC]()
