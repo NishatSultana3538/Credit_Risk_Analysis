@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-## Overview:
+## Overview of the analysis:
 
 Data preparation, statistical reasoning are some important component of  machine learning. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Different techniques need to be employed  to train and evaluate models with unbalanced classes. Imbalanced-learn and scikit-learn libraries are used to build and evaluate models using resampling.
 
