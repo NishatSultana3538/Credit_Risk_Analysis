@@ -31,50 +31,50 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 ![SMOTE-CL]()
 
 
-Balanced accuracy scores: 64%
-Precision High Risk: 1%
-Precision Low Risk: 99%
-Recall High Risk: 63%
-Recall Low Risk: 66%
+* Balanced accuracy scores: 64%
+* Precision High Risk: 1%
+* Precision Low Risk: 99%
+* Recall High Risk: 63%
+* Recall Low Risk: 66%
 
 
 
 ### Undersampling
 ![CC_ACC]()
 ![CC-CL]()
-Balanced accuracy scores: 53%
-Precision High Risk: 1%
-Precision Low Risk: 99%
-Recall High Risk: 61%
-Recall Low Risk: 45%
+* Balanced accuracy scores: 53%
+* Precision High Risk: 1%
+* Precision Low Risk: 99%
+* Recall High Risk: 61%
+* Recall Low Risk: 45%
 
 ### Combination (Over and Under) Sampling: Use the SMOTEENN algorithm to Predict Credit Risk:
 ![SMOTEEN_ACC]()
 ![SMOTEEN-CL]()
-Balanced accuracy scores: 62%
-Precision High Risk: 1%
-Precision Low Risk: 99%
-Recall High Risk: 68%
-Recall Low Risk: 57%
+* Balanced accuracy scores: 62%
+* Precision High Risk: 1%
+* Precision Low Risk: 99%
+* Recall High Risk: 68%
+* Recall Low Risk: 57%
 
 ## Use Ensemble Classifiers to Predict Credit Risk
 #### Balanced Random Forest Classifier
 ![BRFC_ACC]()
 ![BRFC-CL]()
-Balanced accuracy scores: 79%
-Precision High Risk: 3%
-Precision Low Risk: 97%
-Recall High Risk: 70%
-Recall Low Risk: 87%
+* Balanced accuracy scores: 79%
+* Precision High Risk: 3%
+* Precision Low Risk: 97%
+* Recall High Risk: 70%
+* Recall Low Risk: 87%
 
 #### Easy Ensemble AdaBoost Classifier
 ![EEAC_ACC]()
 ![EEAC-CL]()
-Balanced accuracy scores: 93%
-Precision High Risk: 9%
-Precision Low Risk: 91%
-Recall High Risk: 92%
-Recall Low Risk: 94%
+* Balanced accuracy scores: 93%
+* Precision High Risk: 9%
+* Precision Low Risk: 91%
+* Recall High Risk: 92%
+* Recall Low Risk: 94%
 
 ## Summary
 In the first four models we undersampled, oversampled and did a combination of both to try and determine which model is best at predicting which loans are at risk. The next two models we resampled the data using ensemble classifiers to try and predict which which loans are high or low risk.
