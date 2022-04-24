@@ -40,8 +40,8 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 
 
 ### Undersampling
-![CC_ACC]()
-![CC-CL]()
+![CC_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/CC%20ACC.png)
+![CC-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/CC%20CL.png)
 * Balanced accuracy scores: 53%
 * Precision High Risk: 1%
 * Precision Low Risk: 99%
@@ -49,8 +49,8 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 * Recall Low Risk: 45%
 
 ### Combination (Over and Under) Sampling: Use the SMOTEENN algorithm to Predict Credit Risk:
-![SMOTEEN_ACC]()
-![SMOTEEN-CL]()
+![SMOTEEN_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/SMOTTEN%20ACC%20.png)
+![SMOTEEN-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/SMOTTEN%20CL.png)
 * Balanced accuracy scores: 62%
 * Precision High Risk: 1%
 * Precision Low Risk: 99%
