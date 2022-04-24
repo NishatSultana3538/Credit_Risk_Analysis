@@ -22,7 +22,7 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 
 * Balanced accuracy scores: 65%
 * Precision High Risk: 1%
-* Precision Low Risk: 99%
+* Precision Low Risk: 100%
 * Recall High Risk: 62%
 * Recall Low Risk: 68%
 
@@ -33,7 +33,7 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 
 * Balanced accuracy scores: 64%
 * Precision High Risk: 1%
-* Precision Low Risk: 99%
+* Precision Low Risk: 100%
 * Recall High Risk: 63%
 * Recall Low Risk: 66%
 
@@ -44,7 +44,7 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 ![CC-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/CC%20CL.png)
 * Balanced accuracy scores: 53%
 * Precision High Risk: 1%
-* Precision Low Risk: 99%
+* Precision Low Risk: 100%
 * Recall High Risk: 61%
 * Recall Low Risk: 45%
 
@@ -53,7 +53,7 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 ![SMOTEEN-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/SMOTTEN%20CL.png)
 * Balanced accuracy scores: 62%
 * Precision High Risk: 1%
-* Precision Low Risk: 99%
+* Precision Low Risk: 100%
 * Recall High Risk: 68%
 * Recall Low Risk: 57%
 
@@ -63,7 +63,7 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 ![BRFC-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/BRFC%20CL.png)
 * Balanced accuracy scores: 79%
 * Precision High Risk: 3%
-* Precision Low Risk: 97%
+* Precision Low Risk: 100%
 * Recall High Risk: 70%
 * Recall Low Risk: 87%
 
@@ -72,7 +72,7 @@ Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’l
 ![EEAC-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/EEAC%20ACC.png)
 * Balanced accuracy scores: 93%
 * Precision High Risk: 9%
-* Precision Low Risk: 91%
+* Precision Low Risk: 100%
 * Recall High Risk: 92%
 * Recall Low Risk: 94%
 
