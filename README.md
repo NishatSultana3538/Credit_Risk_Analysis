@@ -29,5 +29,7 @@ F1-Score
 
 ### Use the SMOTEENN algorithm to Predict Credit Risk:
 ### Use Ensemble Classifiers to Predict Credit Risk
+#### Balanced Random Forest Classifier
+#### Easy Ensemble AdaBoost Classifier
 
 ## Summary
