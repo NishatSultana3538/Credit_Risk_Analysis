@@ -74,8 +74,8 @@ Using the  knowledge of the imbalanced-learn and scikit-learn libraries, we need
 * Recall Low Risk: 87%
 
 ### Easy Ensemble AdaBoost Classifier
-![EEAC_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/EEAC%20ACC%20.png)
-![EEAC-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/EEAC%20ACC.png)
+![EEAC_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/EEAC%20ACC.png)
+![EEAC-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/EEAC%20CL%20.png)
 * Balanced accuracy scores: 93%
 * Precision High Risk: 9%
 * Precision Low Risk: 100%
