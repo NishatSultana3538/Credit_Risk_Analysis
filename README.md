@@ -63,7 +63,8 @@ Using the  knowledge of the imbalanced-learn and scikit-learn libraries, we need
 * Recall Low Risk: 57%
 
 ## Use Ensemble Classifiers to Predict Credit Risk
-#### Balanced Random Forest Classifier
+
+### Balanced Random Forest Classifier
 ![BRFC_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/BRFC%20ACC.png)
 ![BRFC-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/BRFC%20CL.png)
 * Balanced accuracy scores: 79%
@@ -72,7 +73,7 @@ Using the  knowledge of the imbalanced-learn and scikit-learn libraries, we need
 * Recall High Risk: 70%
 * Recall Low Risk: 87%
 
-#### Easy Ensemble AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 ![EEAC_ACC](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/EEAC%20ACC%20.png)
 ![EEAC-CL](https://github.com/NishatSultana3538/Credit_Risk_Analysis/blob/main/Image/EEAC%20ACC.png)
 * Balanced accuracy scores: 93%
